@@ -1,0 +1,34 @@
+[
+  {
+    "title": "AI Engineer",
+    "domain": "Artificial Intelligence",
+    "description": "Builds machine learning, RAG, LLM, and agentic AI applications for production.",
+    "required_skills": "Python, Machine Learning, Deep Learning, LangChain, ChromaDB, FastAPI, SQL, Cloud",
+    "demand_score": 0.94,
+    "salary_range": "12-28 LPA"
+  },
+  {
+    "title": "Data Scientist",
+    "domain": "Data Analytics",
+    "description": "Uses statistics, data analysis, machine learning, and visualization to solve business problems.",
+    "required_skills": "Python, SQL, Statistics, Machine Learning, Pandas, Data Visualization, Storytelling",
+    "demand_score": 0.88,
+    "salary_range": "9-22 LPA"
+  },
+  {
+    "title": "Full Stack Developer",
+    "domain": "Software Engineering",
+    "description": "Builds responsive web apps, APIs, databases, authentication, and cloud-ready products.",
+    "required_skills": "React, JavaScript, FastAPI, Python, SQLite, REST APIs, Git, Tailwind CSS",
+    "demand_score": 0.84,
+    "salary_range": "6-18 LPA"
+  },
+  {
+    "title": "Cloud AI Developer",
+    "domain": "Cloud Computing",
+    "description": "Deploys AI applications on cloud platforms with secure APIs, storage, monitoring, and automation.",
+    "required_skills": "Cloud, Python, Docker, APIs, Security, Databases, AI Services, Monitoring",
+    "demand_score": 0.9,
+    "salary_range": "10-24 LPA"
+  }
+]

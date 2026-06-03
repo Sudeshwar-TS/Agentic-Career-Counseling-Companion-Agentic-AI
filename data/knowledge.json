@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ai-engineer",
+    "text": "AI Engineer roles require Python, machine learning, deep learning, LangChain, RAG, vector databases such as ChromaDB, FastAPI, SQL, cloud deployment, and strong project portfolios."
+  },
+  {
+    "id": "data-scientist",
+    "text": "Data Scientist roles require Python, SQL, statistics, machine learning, pandas, visualization, experimentation, business understanding, and communication."
+  },
+  {
+    "id": "full-stack",
+    "text": "Full Stack Developer roles require React, JavaScript, backend APIs, Python or Node, databases, authentication, Git, testing, and responsive UI design."
+  },
+  {
+    "id": "certifications",
+    "text": "Recommended certifications include IBM SkillsBuild AI Fundamentals, IBM Cloud Essentials, Machine Learning with Python, Data Science Professional Certificate, and Generative AI fundamentals."
+  },
+  {
+    "id": "internships",
+    "text": "Relevant internships include AI project intern, data science intern, full stack developer intern, cloud application intern, and research assistant roles. Strong applications include a focused resume, GitHub portfolio, and one deployed project."
+  }
+]

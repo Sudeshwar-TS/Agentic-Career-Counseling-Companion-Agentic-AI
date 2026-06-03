@@ -1,0 +1,10 @@
+Demo Student
+Computer Science undergraduate
+
+Skills:
+Python, SQL, Machine Learning, React, FastAPI, Git, Cloud
+
+Projects:
+Built a machine learning dashboard for student performance analytics.
+Developed a React and FastAPI career recommendation prototype.
+Created SQL reports and data visualizations for placement readiness.
